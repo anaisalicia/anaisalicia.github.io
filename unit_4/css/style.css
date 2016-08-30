@@ -6,12 +6,12 @@ body {
 }
 h1 {
 	font-size: 68px;
-	font-family: 'Architects Daughter', cursive;
+	
 }
 
 p {
 	font-size: 35px;
-	font-family: 'Architects Daughter', cursive;
+	
 }
 div{
 	position: relative;
@@ -22,7 +22,7 @@ h2{
 	bottom: 20px;
 	right: 400px;
 	font-size: 40px;
-	font-family: 'Architects Daughter', cursive;
+
 }
 
 img{
